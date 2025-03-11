@@ -12,3 +12,17 @@ C:\C Sharp Problem Solving\C Sharp Problem Solving\obj\Debug\net6.0\refint\C Sha
 C:\C Sharp Problem Solving\C Sharp Problem Solving\obj\Debug\net6.0\C Sharp Problem Solving.pdb
 C:\C Sharp Problem Solving\C Sharp Problem Solving\obj\Debug\net6.0\C Sharp Problem Solving.genruntimeconfig.cache
 C:\C Sharp Problem Solving\C Sharp Problem Solving\obj\Debug\net6.0\ref\C Sharp Problem Solving.dll
+C:\C-Sharp-Problem-Solving\C Sharp Problem Solving\bin\Debug\net6.0\C Sharp Problem Solving.exe
+C:\C-Sharp-Problem-Solving\C Sharp Problem Solving\bin\Debug\net6.0\C Sharp Problem Solving.deps.json
+C:\C-Sharp-Problem-Solving\C Sharp Problem Solving\bin\Debug\net6.0\C Sharp Problem Solving.runtimeconfig.json
+C:\C-Sharp-Problem-Solving\C Sharp Problem Solving\bin\Debug\net6.0\C Sharp Problem Solving.dll
+C:\C-Sharp-Problem-Solving\C Sharp Problem Solving\bin\Debug\net6.0\C Sharp Problem Solving.pdb
+C:\C-Sharp-Problem-Solving\C Sharp Problem Solving\obj\Debug\net6.0\C Sharp Problem Solving.GeneratedMSBuildEditorConfig.editorconfig
+C:\C-Sharp-Problem-Solving\C Sharp Problem Solving\obj\Debug\net6.0\C Sharp Problem Solving.AssemblyInfoInputs.cache
+C:\C-Sharp-Problem-Solving\C Sharp Problem Solving\obj\Debug\net6.0\C Sharp Problem Solving.AssemblyInfo.cs
+C:\C-Sharp-Problem-Solving\C Sharp Problem Solving\obj\Debug\net6.0\C Sharp Problem Solving.csproj.CoreCompileInputs.cache
+C:\C-Sharp-Problem-Solving\C Sharp Problem Solving\obj\Debug\net6.0\C Sharp Problem Solving.dll
+C:\C-Sharp-Problem-Solving\C Sharp Problem Solving\obj\Debug\net6.0\refint\C Sharp Problem Solving.dll
+C:\C-Sharp-Problem-Solving\C Sharp Problem Solving\obj\Debug\net6.0\C Sharp Problem Solving.pdb
+C:\C-Sharp-Problem-Solving\C Sharp Problem Solving\obj\Debug\net6.0\C Sharp Problem Solving.genruntimeconfig.cache
+C:\C-Sharp-Problem-Solving\C Sharp Problem Solving\obj\Debug\net6.0\ref\C Sharp Problem Solving.dll

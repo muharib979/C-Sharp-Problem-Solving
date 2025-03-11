@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C Sharp Problem Solving\\C Sharp Problem Solving\\C Sharp Problem Solving.csproj",
+      "projectUniqueName": "C:\\C-Sharp-Problem-Solving\\C Sharp Problem Solving\\C Sharp Problem Solving.csproj",
       "projectName": "C Sharp Problem Solving",
-      "projectPath": "C:\\C Sharp Problem Solving\\C Sharp Problem Solving\\C Sharp Problem Solving.csproj",
+      "projectPath": "C:\\C-Sharp-Problem-Solving\\C Sharp Problem Solving\\C Sharp Problem Solving.csproj",
       "packagesPath": "C:\\Users\\amran\\.nuget\\packages\\",
-      "outputPath": "C:\\C Sharp Problem Solving\\C Sharp Problem Solving\\obj\\",
+      "outputPath": "C:\\C-Sharp-Problem-Solving\\C Sharp Problem Solving\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
