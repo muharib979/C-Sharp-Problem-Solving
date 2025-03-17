@@ -1,6 +1,9 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Diagnostics.Metrics;
 using System.Threading.Channels;
+using System.Threading.Tasks;
+using System.Xml.Linq;
 
 class Program
 {
@@ -161,17 +164,84 @@ class Program
 
         //foreach (int num in numbers) {
         //    Console.WriteLine($"Squre of {num}:  { num * num}");
-            
+
+        //}
+        //Exercise 5: Print Odd Numbers from 1 to 10 using Continue
+
+
+        //for (int i = 0; i <= 10; i++)
+        //{
+        //    if(i % 2 ==0)
+        //    {
+        //        continue;
+        //    }
+        //    Console.WriteLine(i);
         //}
 
-        for (int i = 0; i <= 10; i++)
-        {
-            if(i % 2 ==0)
-            {
-                continue;
-            }
-            Console.WriteLine(i);
-        }
+        //List<int> numbers = new List<int>();
+
+        //numbers.Add(5);
+        //numbers.Add(15);
+        //numbers.Add(25);
+        //Console.WriteLine(numbers.Count);
+
+        //int[] numbers = { 1, 2, 3, 4, 5 };
+        //Console.WriteLine(numbers[2]);
+
+        //int sum = 0;
+
+        //foreach (int number in numbers)
+        //{
+        //    sum += number;
+        //}
+
+        //Console.WriteLine(sum);
+
+
+
+        //int[] numbers = { 1, 2, 3, 4, 5 };
+        //numbers[0] = 10;
+        //Console.WriteLine("Updated Arrary:");
+
+        //foreach (int i in numbers)
+        //{
+        //    Console.Write(i + " ");
+        //}
+
+        //Exercise 4: Sort an array and print elements in ascending order
+
+
+        //int[] numbers = { 10, 20, 50, 40, 50 };
+
+        //Array.Sort(numbers);
+
+        //Console.WriteLine("Sorted array :");
+
+        //foreach (int number in numbers)
+        //{
+        //    Console.Write(number + " ");
+        //}
+
+        //Exercise 6: Remove an element from a list and print the updated list
+
+        //List<int> number = new List<int>() { 10, 20, 30, 50 };
+        //number.Remove(20);
+        //Console.WriteLine("Updated List: ");    
+        //foreach (int i in number)
+        //{
+        //    Console.Write(i + " ");
+        //}
+
+        //Exercise 7: Ask the user to add names to a list and print the total count
+
+
+
+
+
+
+
+
+
 
 
     }
